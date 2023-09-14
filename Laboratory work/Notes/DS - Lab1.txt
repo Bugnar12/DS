@@ -1,0 +1,6 @@
+Implicit equation : x^2 + y^2 = 1 ( circle of radius 1 )
+Explicit equation : y = +-sqrt(1-x^2)
+
+x = cos t, y = sin t, t belongs to [0, 2pi)
+
+x^2 + y^2 = cos^2 + sin^2 = 1
